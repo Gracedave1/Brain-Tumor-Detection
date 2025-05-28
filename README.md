@@ -5,7 +5,7 @@
 
 The early detection of brain tumors can be life-saving, but manual analysis of MRI scans is time-consuming and prone to error. This project aims to leverage **Convolutional Neural Networks (CNNs)** to build a robust, accurate, and automated diagnostic model capable of distinguishing between healthy and tumorous brain scans.
 
-This deep learning pipeline streamlines the detection of tumors in MRI images by transforming raw pixel data into diagnostic insights — all through an end-to-end model embedded in an interactive web application.
+This deep learning pipeline streamlines the detection of tumors in MRI images by transforming raw pixel data into diagnostic insights - all through an end-to-end model embedded in an interactive web application.
 
 ---
 
